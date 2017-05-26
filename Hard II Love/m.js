@@ -1,0 +1,17 @@
+var f = [];				
+f[0]	= "v0.0.7";			
+f[1]	= "01 Need U.mp3";		
+f[2]	= "02 Missin U.mp3";		
+f[3]	= "03 No Limit.mp3";		
+f[4]	= "04 Bump.mp3";		
+f[5]	= "05 Let Me.mp3";		
+f[6]	= "06 Downtime.mp3";		
+f[7]	= "07 Crash.mp3";		
+f[8]	= "08 Make U a Believer.mp3";		
+f[9]	= "09 Mind of a Man.mp3";		
+f[10]	= "10 FWM.mp3";		
+f[11]	= "11 Rivals.mp3";		
+f[12]	= "12 Tell Me.mp3";		
+f[13]	= "13 Hard II Love.mp3";		
+f[14]	= "14 Stronger.mp3";		
+f[15]	= "15 Champions [From the Motion Picture 'Hands of Stone'].mp3";		
