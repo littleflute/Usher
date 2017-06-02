@@ -1,0 +1,16 @@
+var f = [];				
+f[0]	= "v0.0.7";			
+f[1]	= "01 Can't Stop Won't Stop.mp3";		
+f[2]	= "02 Scream.mp3";		
+f[3]	= "03 Climax.mp3";		
+f[4]	= "04 I Care for U.mp3";		
+f[5]	= "05 Show Me.mp3";		
+f[6]	= "06 Lemme See.mp3";		
+f[7]	= "07 Twisted.mp3";		
+f[8]	= "08 Dive.mp3";		
+f[9]	= "09 What Happened to U.mp3";		
+f[10]	= "10 Looking 4 Myself.mp3";		
+f[11]	= "11 Numb.mp3";		
+f[12]	= "12 Lessons for the Lover.mp3";		
+f[13]	= "13 Sins of My Father.mp3";		
+f[14]	= "14 Euphoria.mp3";		
